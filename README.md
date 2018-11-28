@@ -1,0 +1,92 @@
+# Deep_Learning_3A
+Labs for the Deep_Learning class 2018/2019
+
+Those three Jupyter Notebooks represent the answers for the three Deep Learning Labs.
+They are registered as MVA-MP1, MVA-MP2, MVA-MP3
+
+config :
+# Name                    Version                   Build  Channel
+absl-py                   0.5.0                     <pip>
+astor                     0.7.1                     <pip>
+backcall                  0.1.0                     <pip>
+beautifulsoup4            4.6.3                     <pip>
+bleach                    3.0.0                     <pip>
+bs4                       0.0.1                     <pip>
+certifi                   2018.8.24                py36_1  
+colorama                  0.3.9                     <pip>
+cycler                    0.10.0                    <pip>
+decorator                 4.3.0                     <pip>
+defusedxml                0.5.0                     <pip>
+entrypoints               0.2.3                     <pip>
+gast                      0.2.0                     <pip>
+grpcio                    1.15.0                    <pip>
+h5py                      2.8.0                     <pip>
+ipykernel                 5.0.0                     <pip>
+ipython                   7.0.1                     <pip>
+ipython-genutils          0.2.0                     <pip>
+ipywidgets                7.4.2                     <pip>
+jedi                      0.13.1                    <pip>
+Jinja2                    2.10                      <pip>
+jsonschema                2.6.0                     <pip>
+jupyter                   1.0.0                     <pip>
+jupyter-client            5.2.3                     <pip>
+jupyter-console           6.0.0                     <pip>
+jupyter-core              4.4.0                     <pip>
+Keras                     2.2.4                     <pip>
+Keras-Applications        1.0.6                     <pip>
+Keras-Preprocessing       1.0.5                     <pip>
+kiwisolver                1.0.1                     <pip>
+Markdown                  3.0.1                     <pip>
+MarkupSafe                1.0                       <pip>
+matplotlib                3.0.0                     <pip>
+mistune                   0.8.3                     <pip>
+nbconvert                 5.4.0                     <pip>
+nbformat                  4.4.0                     <pip>
+nltk                      3.4                       <pip>
+notebook                  5.7.0                     <pip>
+numpy                     1.15.2                    <pip>
+pandas                    0.23.4                    <pip>
+pandocfilters             1.4.2                     <pip>
+parso                     0.3.1                     <pip>
+pickleshare               0.7.5                     <pip>
+pip                       18.0                      <pip>
+pip                       10.0.1                   py36_0  
+prometheus-client         0.4.0                     <pip>
+prompt-toolkit            2.0.5                     <pip>
+protobuf                  3.6.1                     <pip>
+Pygments                  2.2.0                     <pip>
+pyparsing                 2.2.2                     <pip>
+python                    3.6.6                hea74fb7_0  
+python-dateutil           2.7.3                     <pip>
+pytz                      2018.6                    <pip>
+pywinpty                  0.5.4                     <pip>
+PyYAML                    3.13                      <pip>
+pyzmq                     17.1.2                    <pip>
+qtconsole                 4.4.1                     <pip>
+scikit-learn              0.20.0                    <pip>
+scipy                     1.1.0                     <pip>
+seaborn                   0.9.0                     <pip>
+Send2Trash                1.5.0                     <pip>
+setuptools                39.1.0                    <pip>
+setuptools                40.4.3                   py36_0  
+simplegeneric             0.8.1                     <pip>
+singledispatch            3.4.0.3                   <pip>
+six                       1.11.0                    <pip>
+sklearn                   0.0                       <pip>
+tensorboard               1.11.0                    <pip>
+tensorflow                1.11.0                    <pip>
+tensorflow-gpu            1.11.0                    <pip>
+termcolor                 1.1.0                     <pip>
+terminado                 0.8.1                     <pip>
+testpath                  0.4.2                     <pip>
+tornado                   5.1.1                     <pip>
+tqdm                      4.28.1                    <pip>
+traitlets                 4.3.2                     <pip>
+vc                        14.1                 h0510ff6_4  
+vs2015_runtime            14.15.26706          h3a45250_0  
+wcwidth                   0.1.7                     <pip>
+webencodings              0.5.1                     <pip>
+Werkzeug                  0.14.1                    <pip>
+wheel                     0.32.0                   py36_0  
+widgetsnbextension        3.4.2                     <pip>
+wincertstore              0.2              py36h7fe50ca_0  
